@@ -1,2 +1,2 @@
 # PCMR-hardware-store
-Proyecto web plataforma de venta de hardware
+Proyecto 4D web plataforma de venta de hardware
